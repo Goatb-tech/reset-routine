@@ -1,0 +1,19 @@
+{
+  "desktop_dir": "~/Desktop",
+  "downloads_dir": "~/Downloads",
+  "archive_dir": "data/archives",
+  "plans_dir": "plans",
+  "clean_apps": [
+    "Safari",
+    "Google Chrome",
+    "Mail",
+    "Slack"
+  ],
+  "old_file_days": 30,
+  "task_templates": [
+    "Review tomorrow's calendar",
+    "Pick the top 3 priorities",
+    "Clear urgent replies",
+    "Set the first task for the morning"
+  ]
+}

@@ -1,0 +1,9 @@
+[project]
+name = "reset-routine"
+version = "0.1.0"
+description = "Local macOS end-of-day reset automation"
+requires-python = ">=3.9"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
